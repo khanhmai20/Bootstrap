@@ -1,0 +1,9 @@
+#login { 
+    border: solid 1px;
+    border-color: blue;
+    color: blue;
+}
+
+input { 
+    width: 40% !important;
+}
